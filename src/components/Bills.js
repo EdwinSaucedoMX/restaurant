@@ -2,7 +2,7 @@
  * Do not use this function directly.
  * Use any other function in the component instead
  * @param client 
- * @param filter 
+ * @param agg 
  * @returns 
  */
 async function getData(client, agg) {
