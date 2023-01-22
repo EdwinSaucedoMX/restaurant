@@ -1,0 +1,9575 @@
+[{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0d0"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1597190400000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc527"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 667,
+  "tip": 133.4,
+  "table": 13,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0d5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1582502400000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc514"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9b"
+  },
+  "total": 208,
+  "tip": 16.64,
+  "table": 18,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0d2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1587427200000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc55f"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9a"
+  },
+  "total": 165,
+  "tip": 8.25,
+  "table": 2,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0de"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1582070400000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 20,
+  "tip": 1.6,
+  "table": 14,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0e5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1629504000000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 447,
+  "tip": 67.05,
+  "table": 18,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0f5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1582156800000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 686,
+  "tip": 34.3,
+  "table": 3,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0f9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1664236800000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc51f"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9b"
+  },
+  "total": 314,
+  "tip": 43.96,
+  "table": 9,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0fe"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1651190400000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 15,
+  "tip": 2.25,
+  "table": 2,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e104"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1647043200000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc567"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9a"
+  },
+  "total": 299,
+  "tip": 59.8,
+  "table": 5,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e127"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1640995200000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc53d"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9a"
+  },
+  "total": 471,
+  "tip": 32.97,
+  "table": 20,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e138"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621123200000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc551"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 267,
+  "tip": 21.36,
+  "table": 11,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e146"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1600128000000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 170,
+  "tip": 11.9,
+  "table": 4,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e14e"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1656892800000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 268,
+  "tip": 34.84,
+  "table": 18,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e15b"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1631836800000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9b"
+  },
+  "total": 464,
+  "tip": 69.6,
+  "table": 1,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e16b"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1664582400000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc54a"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 712,
+  "tip": 128.16,
+  "table": 1,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e17b"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1594166400000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc54e"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 732,
+  "tip": 109.8,
+  "table": 17,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e17c"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1579132800000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 187,
+  "tip": 11.22,
+  "table": 20,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0f1"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1643587200000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc564"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 730,
+  "tip": 94.9,
+  "table": 10,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0f7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1663200000000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc523"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 712,
+  "tip": 42.72,
+  "table": 2,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e114"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1597881600000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc544"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 443,
+  "tip": 31.01,
+  "table": 3,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e115"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1630886400000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc56c"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 60,
+  "tip": 6.6,
+  "table": 14,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e14a"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1599782400000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9a"
+  },
+  "total": 940,
+  "tip": 169.2,
+  "table": 16,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e16c"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1615420800000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc511"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 30,
+  "tip": 3.9,
+  "table": 18,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e183"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1638662400000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9a"
+  },
+  "total": 507,
+  "tip": 65.91,
+  "table": 11,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e18f"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1599696000000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 544,
+  "tip": 103.36,
+  "table": 8,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e194"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621728000000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 427,
+  "tip": 25.62,
+  "table": 13,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e195"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1661817600000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9b"
+  },
+  "total": 380,
+  "tip": 68.4,
+  "table": 16,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e197"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1582675200000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc530"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 385,
+  "tip": 53.9,
+  "table": 17,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0dd"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1626652800000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9b"
+  },
+  "total": 270,
+  "tip": 51.3,
+  "table": 14,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0e7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1601856000000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9a"
+  },
+  "total": 280,
+  "tip": 19.6,
+  "table": 15,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0ff"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1611014400000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 276,
+  "tip": 52.44,
+  "table": 10,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e102"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1661904000000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 354,
+  "tip": 17.7,
+  "table": 7,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e103"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1633996800000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc525"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 757,
+  "tip": 121.12,
+  "table": 11,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e107"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1627516800000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc516"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9b"
+  },
+  "total": 735,
+  "tip": 88.2,
+  "table": 19,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e119"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1619913600000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc56b"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 491,
+  "tip": 83.47,
+  "table": 14,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e12c"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1585440000000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9a"
+  },
+  "total": 389,
+  "tip": 19.45,
+  "table": 5,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e140"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1640995200000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc53d"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 69,
+  "tip": 6.9,
+  "table": 11,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e14d"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1598918400000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc550"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 334,
+  "tip": 20.04,
+  "table": 14,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e166"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1596672000000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc542"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 343,
+  "tip": 61.74,
+  "table": 13,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e167"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1646870400000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 536,
+  "tip": 58.96,
+  "table": 8,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e16e"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621123200000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc551"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9a"
+  },
+  "total": 302,
+  "tip": 30.2,
+  "table": 15,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e174"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1663459200000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 300,
+  "tip": 51,
+  "table": 20,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e177"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1627689600000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9b"
+  },
+  "total": 268,
+  "tip": 34.84,
+  "table": 16,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e17e"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1629936000000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 92,
+  "tip": 9.2,
+  "table": 14,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0e9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1633996800000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc525"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 484,
+  "tip": 24.2,
+  "table": 18,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e105"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1583280000000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc512"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 500,
+  "tip": 90,
+  "table": 9,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e118"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649289600000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9a"
+  },
+  "total": 798,
+  "tip": 119.7,
+  "table": 8,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e122"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648425600000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc565"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 730,
+  "tip": 80.3,
+  "table": 14,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e12e"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1610064000000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc519"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 158,
+  "tip": 12.64,
+  "table": 8,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e131"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1619222400000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 305,
+  "tip": 21.35,
+  "table": 18,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e132"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1673568000000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 319,
+  "tip": 60.61,
+  "table": 7,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e137"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1597190400000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc527"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 24,
+  "tip": 4.08,
+  "table": 17,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e13c"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648425600000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc565"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 635,
+  "tip": 31.75,
+  "table": 9,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0d4"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1674259200000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 573,
+  "tip": 57.3,
+  "table": 14,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0dc"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1641081600000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc526"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 535,
+  "tip": 53.5,
+  "table": 3,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0d1"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1596153600000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc51e"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 450,
+  "tip": 58.5,
+  "table": 8,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0ef"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1667865600000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 458,
+  "tip": 77.86,
+  "table": 19,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0f2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1608076800000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9a"
+  },
+  "total": 617,
+  "tip": 49.36,
+  "table": 7,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0ec"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620950400000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 793,
+  "tip": 95.16,
+  "table": 5,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0e2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1600387200000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9b"
+  },
+  "total": 211,
+  "tip": 25.32,
+  "table": 3,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e136"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1676332800000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 550,
+  "tip": 77,
+  "table": 15,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e15d"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635465600000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9a"
+  },
+  "total": 215,
+  "tip": 40.85,
+  "table": 10,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e176"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621900800000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 354,
+  "tip": 56.64,
+  "table": 16,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e189"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1658102400000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 475,
+  "tip": 28.5,
+  "table": 5,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0ea"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1643068800000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc556"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 501,
+  "tip": 95.19,
+  "table": 4,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0fd"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1627516800000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc516"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9a"
+  },
+  "total": 695,
+  "tip": 97.3,
+  "table": 12,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e11c"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1608854400000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc553"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 660,
+  "tip": 92.4,
+  "table": 14,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e11e"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1641686400000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 495,
+  "tip": 44.55,
+  "table": 4,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e12a"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1584316800000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9b"
+  },
+  "total": 669,
+  "tip": 80.28,
+  "table": 5,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e13d"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1605916800000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc547"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 457,
+  "tip": 91.4,
+  "table": 2,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e144"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1677196800000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc539"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 705,
+  "tip": 119.85,
+  "table": 9,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e14f"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1597190400000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc527"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9b"
+  },
+  "total": 639,
+  "tip": 63.9,
+  "table": 19,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e168"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1617667200000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc549"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 516,
+  "tip": 25.8,
+  "table": 16,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e170"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1645660800000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc53e"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 509,
+  "tip": 66.17,
+  "table": 3,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e172"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1673568000000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 490,
+  "tip": 24.5,
+  "table": 7,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e18c"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1596585600000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc51c"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 352,
+  "tip": 49.28,
+  "table": 15,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0d3"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1594944000000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 319,
+  "tip": 51.04,
+  "table": 9,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0df"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1669593600000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 710,
+  "tip": 106.5,
+  "table": 18,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0f4"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1674691200000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc529"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 596,
+  "tip": 119.2,
+  "table": 16,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0fa"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1615420800000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc511"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 715,
+  "tip": 128.7,
+  "table": 5,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e10d"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1655769600000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 45,
+  "tip": 4.95,
+  "table": 2,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e110"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1586995200000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 417,
+  "tip": 33.36,
+  "table": 19,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e117"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1590710400000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 676,
+  "tip": 81.12,
+  "table": 20,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e123"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1590624000000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc555"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9b"
+  },
+  "total": 233,
+  "tip": 37.28,
+  "table": 11,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e13f"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1580169600000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 229,
+  "tip": 43.51,
+  "table": 13,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e141"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1591142400000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc518"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 299,
+  "tip": 32.89,
+  "table": 10,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e14b"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1639526400000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 164,
+  "tip": 29.52,
+  "table": 8,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e162"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1624233600000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc54d"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 376,
+  "tip": 75.2,
+  "table": 20,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e16d"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1646438400000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 132,
+  "tip": 9.24,
+  "table": 11,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e171"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1613952000000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc53a"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 85,
+  "tip": 12.75,
+  "table": 12,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e173"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1631404800000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 246,
+  "tip": 27.06,
+  "table": 13,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e178"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1589673600000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 30,
+  "tip": 5.7,
+  "table": 14,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e17d"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1610064000000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc519"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9b"
+  },
+  "total": 212,
+  "tip": 29.68,
+  "table": 13,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e18d"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1667088000000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9a"
+  },
+  "total": 845,
+  "tip": 109.85,
+  "table": 17,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e193"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1657152000000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc50a"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 210,
+  "tip": 18.9,
+  "table": 5,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0fb"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1633478400000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc554"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 528,
+  "tip": 105.6,
+  "table": 20,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e11b"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1633737600000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc53f"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 15,
+  "tip": 1.2,
+  "table": 14,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e11d"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1610582400000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc50e"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 120,
+  "tip": 19.2,
+  "table": 5,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e11f"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1597017600000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 65,
+  "tip": 11.05,
+  "table": 19,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e147"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648771200000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 25,
+  "tip": 2.25,
+  "table": 3,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e14c"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1638057600000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc53b"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 301,
+  "tip": 57.19,
+  "table": 5,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e100"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1607126400000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9a"
+  },
+  "total": 927,
+  "tip": 55.62,
+  "table": 20,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e112"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1606003200000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 165,
+  "tip": 24.75,
+  "table": 14,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e120"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1650240000000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9b"
+  },
+  "total": 528,
+  "tip": 26.4,
+  "table": 9,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e151"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1630108800000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 540,
+  "tip": 27,
+  "table": 2,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e153"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621814400000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc521"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9b"
+  },
+  "total": 269,
+  "tip": 24.21,
+  "table": 4,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e124"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1677196800000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc539"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 536,
+  "tip": 80.4,
+  "table": 4,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e128"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1637366400000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 493,
+  "tip": 44.37,
+  "table": 9,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e130"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620691200000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9a"
+  },
+  "total": 273,
+  "tip": 19.11,
+  "table": 13,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e145"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1605916800000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc547"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 655,
+  "tip": 72.05,
+  "table": 5,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e15f"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620000000000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc557"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 75,
+  "tip": 9.75,
+  "table": 14,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e186"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648425600000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc55b"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9a"
+  },
+  "total": 215,
+  "tip": 40.85,
+  "table": 14,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e155"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1676851200000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 729,
+  "tip": 36.45,
+  "table": 4,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e156"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620518400000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc528"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9b"
+  },
+  "total": 768,
+  "tip": 92.16,
+  "table": 17,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e161"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1601683200000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc552"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9a"
+  },
+  "total": 25,
+  "tip": 3.75,
+  "table": 11,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e190"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1596499200000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc509"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 523,
+  "tip": 26.15,
+  "table": 13,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e187"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1587600000000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 375,
+  "tip": 75,
+  "table": 10,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e188"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1630886400000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc56c"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 155,
+  "tip": 29.45,
+  "table": 10,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0ee"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1577923200000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 50,
+  "tip": 6.5,
+  "table": 5,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0f0"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1677196800000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc539"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 496,
+  "tip": 69.44,
+  "table": 11,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0f3"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1669680000000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 233,
+  "tip": 34.95,
+  "table": 5,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e10c"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1624060800000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9a"
+  },
+  "total": 747,
+  "tip": 89.64,
+  "table": 1,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e121"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1583884800000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9b"
+  },
+  "total": 735,
+  "tip": 80.85,
+  "table": 1,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e142"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1650585600000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc52d"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 522,
+  "tip": 52.2,
+  "table": 16,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e152"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1596672000000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc542"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9b"
+  },
+  "total": 750,
+  "tip": 37.5,
+  "table": 3,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e18b"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1618099200000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 95,
+  "tip": 5.7,
+  "table": 5,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e191"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1641081600000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc526"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 264,
+  "tip": 47.52,
+  "table": 17,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e192"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1598918400000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc550"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9b"
+  },
+  "total": 154,
+  "tip": 15.4,
+  "table": 12,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0d8"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1619827200000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc522"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 525,
+  "tip": 57.75,
+  "table": 8,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0e0"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1587427200000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc55f"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 62,
+  "tip": 9.92,
+  "table": 6,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0e1"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1598918400000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc550"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 278,
+  "tip": 50.04,
+  "table": 16,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0f8"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1610064000000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc519"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 922,
+  "tip": 138.3,
+  "table": 8,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e113"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1597536000000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc54c"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 783,
+  "tip": 70.47,
+  "table": 5,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e129"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1591920000000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc520"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9a"
+  },
+  "total": 675,
+  "tip": 54,
+  "table": 12,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e12b"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1637193600000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 234,
+  "tip": 30.42,
+  "table": 5,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e163"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1643068800000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc556"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9b"
+  },
+  "total": 402,
+  "tip": 20.1,
+  "table": 17,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e164"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621123200000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc551"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9b"
+  },
+  "total": 81,
+  "tip": 12.15,
+  "table": 5,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e17a"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1632268800000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc548"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 504,
+  "tip": 55.44,
+  "table": 19,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e180"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621814400000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc521"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 155,
+  "tip": 26.35,
+  "table": 15,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0d7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1624579200000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc559"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9a"
+  },
+  "total": 588,
+  "tip": 70.56,
+  "table": 10,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0d6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1629676800000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc532"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9a"
+  },
+  "total": 454,
+  "tip": 77.18,
+  "table": 18,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0e3"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1592265600000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9a"
+  },
+  "total": 265,
+  "tip": 23.85,
+  "table": 7,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e10b"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1633478400000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 692,
+  "tip": 69.2,
+  "table": 2,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e12d"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1644192000000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 173,
+  "tip": 10.38,
+  "table": 15,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e139"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1629590400000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 427,
+  "tip": 76.86,
+  "table": 4,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e158"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1671148800000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9b"
+  },
+  "total": 792,
+  "tip": 47.52,
+  "table": 4,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e16a"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621123200000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc551"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 560,
+  "tip": 95.2,
+  "table": 9,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e179"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1613260800000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 189,
+  "tip": 20.79,
+  "table": 20,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e196"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1673740800000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 492,
+  "tip": 34.44,
+  "table": 5,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0e6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1668384000000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 30,
+  "tip": 3.3,
+  "table": 7,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0d9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620518400000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc528"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 12,
+  "tip": 1.8,
+  "table": 7,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0da"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1580169600000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 50,
+  "tip": 7.5,
+  "table": 18,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0eb"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1666137600000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc56a"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 515,
+  "tip": 46.35,
+  "table": 3,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0f6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1618185600000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc531"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9b"
+  },
+  "total": 244,
+  "tip": 29.28,
+  "table": 9,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e109"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1579737600000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 250,
+  "tip": 40,
+  "table": 19,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e10e"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1646438400000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 417,
+  "tip": 29.19,
+  "table": 11,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e11a"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648598400000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9a"
+  },
+  "total": 261,
+  "tip": 15.66,
+  "table": 6,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e135"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1600646400000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 994,
+  "tip": 59.64,
+  "table": 17,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e13a"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1591920000000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc520"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 324,
+  "tip": 48.6,
+  "table": 1,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e15a"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1579737600000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc52e"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 734,
+  "tip": 36.7,
+  "table": 14,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e16f"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1628467200000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc54f"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9a"
+  },
+  "total": 557,
+  "tip": 94.69,
+  "table": 15,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e175"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648944000000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc535"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 822,
+  "tip": 82.2,
+  "table": 7,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e184"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649116800000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 65,
+  "tip": 11.7,
+  "table": 15,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e185"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1619913600000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc56b"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9b"
+  },
+  "total": 275,
+  "tip": 13.75,
+  "table": 10,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0db"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1623801600000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9a"
+  },
+  "total": 284,
+  "tip": 56.8,
+  "table": 17,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0fc"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1643587200000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc564"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9a"
+  },
+  "total": 429,
+  "tip": 68.64,
+  "table": 7,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e106"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1663545600000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc513"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 751,
+  "tip": 90.12,
+  "table": 10,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e10a"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1582416000000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9b"
+  },
+  "total": 363,
+  "tip": 43.56,
+  "table": 2,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e125"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1579737600000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc52e"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 498,
+  "tip": 44.82,
+  "table": 8,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e12f"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1636329600000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc517"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 170,
+  "tip": 32.3,
+  "table": 12,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e13b"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1596153600000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc51e"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 240,
+  "tip": 21.6,
+  "table": 1,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e13e"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1664236800000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc51f"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9b"
+  },
+  "total": 12,
+  "tip": 1.44,
+  "table": 15,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e143"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1617926400000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9b"
+  },
+  "total": 732,
+  "tip": 36.6,
+  "table": 1,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e150"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1582416000000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc534"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 432,
+  "tip": 21.6,
+  "table": 18,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e154"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1664582400000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc54a"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 249,
+  "tip": 29.88,
+  "table": 12,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e15e"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1605830400000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc50b"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9a"
+  },
+  "total": 289,
+  "tip": 40.46,
+  "table": 12,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e160"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1661040000000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc540"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 50,
+  "tip": 6.5,
+  "table": 15,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e169"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1628726400000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 233,
+  "tip": 23.3,
+  "table": 18,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e18e"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1617667200000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc549"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9a"
+  },
+  "total": 180,
+  "tip": 14.4,
+  "table": 4,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e101"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1618876800000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9b"
+  },
+  "total": 239,
+  "tip": 11.95,
+  "table": 10,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e108"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1654214400000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc55a"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 944,
+  "tip": 75.52,
+  "table": 6,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e10f"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621728000000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 595,
+  "tip": 71.4,
+  "table": 19,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e134"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1588118400000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc50d"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 175,
+  "tip": 24.5,
+  "table": 4,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e148"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1594166400000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc54e"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 409,
+  "tip": 53.17,
+  "table": 1,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e149"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1628467200000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc54f"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 57,
+  "tip": 5.7,
+  "table": 11,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e157"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1615161600000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9a"
+  },
+  "total": 174,
+  "tip": 19.14,
+  "table": 8,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e15c"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1657152000000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc50a"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 588,
+  "tip": 29.4,
+  "table": 14,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e165"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1670371200000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9b"
+  },
+  "total": 679,
+  "tip": 74.69,
+  "table": 6,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e17f"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1655078400000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc538"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 617,
+  "tip": 111.06,
+  "table": 2,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e182"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1607644800000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 583,
+  "tip": 46.64,
+  "table": 8,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e18a"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1581724800000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9a"
+  },
+  "total": 380,
+  "tip": 19,
+  "table": 13,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0e4"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1582416000000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc534"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 453,
+  "tip": 63.42,
+  "table": 9,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0e8"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1583193600000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc52a"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 145,
+  "tip": 21.75,
+  "table": 17,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e0ed"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1598572800000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc536"
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9a"
+  },
+  "total": 571,
+  "tip": 85.65,
+  "table": 3,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e111"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1661385600000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "total": 507,
+  "tip": 96.33,
+  "table": 12,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e116"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1664323200000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 864,
+  "tip": 43.2,
+  "table": 14,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e126"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1622851200000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 345,
+  "tip": 58.65,
+  "table": 5,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e133"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1597190400000"
+    }
+  },
+  "reservation": {
+    "$oid": "63a8b32d91544d0fa41fc527"
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "total": 364,
+  "tip": 29.12,
+  "table": 10,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e159"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1606608000000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "total": 458,
+  "tip": 22.9,
+  "table": 14,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a8f2744e1372231857e181"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1639353600000"
+    }
+  },
+  "waiter": {
+    "$oid": "63a60cc5472d4a7662feee9b"
+  },
+  "total": 199,
+  "tip": 39.8,
+  "table": 10,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "orders": [
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    }
+  ]
+}]

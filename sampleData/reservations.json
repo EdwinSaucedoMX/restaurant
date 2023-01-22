@@ -1,0 +1,1501 @@
+[{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc509"
+  },
+  "client": "Sr(a). Octavio de la Fuente",
+  "phone": "1-078-625-5078x008",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 20,
+  "date": {
+    "$date": {
+      "$numberLong": "1596499200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc538"
+  },
+  "client": "Isabel Francisco Javier Frías",
+  "phone": "03756889408",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 5,
+  "date": {
+    "$date": {
+      "$numberLong": "1655078400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc532"
+  },
+  "client": "Lic. Jos Ayala",
+  "phone": "00056140207",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 14,
+  "date": {
+    "$date": {
+      "$numberLong": "1629676800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc50d"
+  },
+  "client": "Julio César Hernádez Caballero",
+  "phone": "(422)079-6541x2044",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 13,
+  "date": {
+    "$date": {
+      "$numberLong": "1588118400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc50f"
+  },
+  "client": "Benito Irizarry",
+  "phone": "1-799-594-5028x70466",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 19,
+  "date": {
+    "$date": {
+      "$numberLong": "1595203200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc51d"
+  },
+  "client": "Dr. Juan Venegas",
+  "phone": "1-533-347-1081x50272",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 15,
+  "date": {
+    "$date": {
+      "$numberLong": "1610841600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc54e"
+  },
+  "client": "Armando Vigil Cortés",
+  "phone": "05919530786",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 17,
+  "date": {
+    "$date": {
+      "$numberLong": "1594166400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc56b"
+  },
+  "client": "Óscar Raquel Griego Gaitán",
+  "phone": "(603)213-0136",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 8,
+  "date": {
+    "$date": {
+      "$numberLong": "1619913600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc53d"
+  },
+  "client": "Rolando Coronado",
+  "phone": "(586)108-1990",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 7,
+  "date": {
+    "$date": {
+      "$numberLong": "1640995200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc541"
+  },
+  "client": "Sr(a). Teodoro Moreno",
+  "phone": "(225)022-6955",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 4,
+  "date": {
+    "$date": {
+      "$numberLong": "1582329600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc543"
+  },
+  "client": "Dalia Claudio Villa Haro",
+  "phone": "484-172-3955x8522",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 7,
+  "date": {
+    "$date": {
+      "$numberLong": "1599436800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc555"
+  },
+  "client": "Julio César José Vigil Caballero",
+  "phone": "585.103.6492x8591",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 18,
+  "date": {
+    "$date": {
+      "$numberLong": "1590624000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc55d"
+  },
+  "client": "Tomás Paredes Mares",
+  "phone": "1-581-462-0903x1775",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 14,
+  "date": {
+    "$date": {
+      "$numberLong": "1615766400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc55e"
+  },
+  "client": "Amanda Marisela Ceballos",
+  "phone": "+68(6)8583943201",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 0,
+  "date": {
+    "$date": {
+      "$numberLong": "1594425600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc56c"
+  },
+  "client": "Carla Rosario Granado Patiño",
+  "phone": "1-951-304-8968x4431",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 16,
+  "date": {
+    "$date": {
+      "$numberLong": "1630886400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc519"
+  },
+  "client": "Mtro. Dulce Mata",
+  "phone": "623-684-5409x85123",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 0,
+  "date": {
+    "$date": {
+      "$numberLong": "1610064000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc51a"
+  },
+  "client": "Rocío Zarate Santana",
+  "phone": "+23(1)0426354093",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 12,
+  "date": {
+    "$date": {
+      "$numberLong": "1652400000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc51b"
+  },
+  "client": "Abril Rendón Lemus",
+  "phone": "+32(1)4292125772",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 20,
+  "date": {
+    "$date": {
+      "$numberLong": "1619654400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc527"
+  },
+  "client": "Ángel Mónica Casares",
+  "phone": "178-314-0612x07368",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 2,
+  "date": {
+    "$date": {
+      "$numberLong": "1597190400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc52e"
+  },
+  "client": "María Elena Marisol Vargas Urías",
+  "phone": "+83(3)4409845262",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 20,
+  "date": {
+    "$date": {
+      "$numberLong": "1579737600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc540"
+  },
+  "client": "Dr. Violeta Venegas",
+  "phone": "806.509.9377",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 12,
+  "date": {
+    "$date": {
+      "$numberLong": "1661040000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc554"
+  },
+  "client": "Itzel Óscar Padilla Lovato",
+  "phone": "1-155-753-9254",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 12,
+  "date": {
+    "$date": {
+      "$numberLong": "1633478400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc569"
+  },
+  "client": "Genaro Patricio Santillán Zamudio",
+  "phone": "448-324-5524x6075",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 18,
+  "date": {
+    "$date": {
+      "$numberLong": "1599868800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc511"
+  },
+  "client": "Natalia Baca",
+  "phone": "(072)381-2037",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 20,
+  "date": {
+    "$date": {
+      "$numberLong": "1615420800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc518"
+  },
+  "client": "Elias Galván",
+  "phone": "713.573.0795x498",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 16,
+  "date": {
+    "$date": {
+      "$numberLong": "1591142400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc521"
+  },
+  "client": "Barbara Beltrán",
+  "phone": "(350)355-2205x458",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 17,
+  "date": {
+    "$date": {
+      "$numberLong": "1621814400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc529"
+  },
+  "client": "Eduardo Salma Naranjo",
+  "phone": "372-015-7402x002",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 14,
+  "date": {
+    "$date": {
+      "$numberLong": "1674691200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc530"
+  },
+  "client": "Mtro. Ivonne Godoy",
+  "phone": "553.999.1432x19017",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 4,
+  "date": {
+    "$date": {
+      "$numberLong": "1582675200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc55b"
+  },
+  "client": "Karla Zoé Escobedo",
+  "phone": "127.305.1259x1439",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 16,
+  "date": {
+    "$date": {
+      "$numberLong": "1648425600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc561"
+  },
+  "client": "Óscar Casillas López",
+  "phone": "(474)661-0358",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 3,
+  "date": {
+    "$date": {
+      "$numberLong": "1617148800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc510"
+  },
+  "client": "Dr. Sonia Mireles",
+  "phone": "(896)750-2645",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 16,
+  "date": {
+    "$date": {
+      "$numberLong": "1647993600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc525"
+  },
+  "client": "Cristobal Cotto Lucio",
+  "phone": "+45(1)9221673688",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 8,
+  "date": {
+    "$date": {
+      "$numberLong": "1633996800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc512"
+  },
+  "client": "Lilia Cano Alvarez",
+  "phone": "1-752-922-3477x28394",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 9,
+  "date": {
+    "$date": {
+      "$numberLong": "1583280000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc516"
+  },
+  "client": "Omar Arevalo Zarate",
+  "phone": "816-571-3670x962",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 1,
+  "date": {
+    "$date": {
+      "$numberLong": "1627516800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc520"
+  },
+  "client": "Dr. Vanesa Porras",
+  "phone": "(267)213-3092",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 0,
+  "date": {
+    "$date": {
+      "$numberLong": "1591920000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc533"
+  },
+  "client": "Patricio Hernán Abrego Alcala",
+  "phone": "207-561-3168",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 10,
+  "date": {
+    "$date": {
+      "$numberLong": "1590796800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc535"
+  },
+  "client": "Guillermina Isabela Cordero",
+  "phone": "(318)199-5432",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 17,
+  "date": {
+    "$date": {
+      "$numberLong": "1648944000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc54a"
+  },
+  "client": "Salvador Adriana Ulloa Trejo",
+  "phone": "436-974-6609",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 0,
+  "date": {
+    "$date": {
+      "$numberLong": "1664582400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc54f"
+  },
+  "client": "Eugenia Abelardo Urías Guardado",
+  "phone": "421-432-4521",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 9,
+  "date": {
+    "$date": {
+      "$numberLong": "1628467200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc557"
+  },
+  "client": "Iván Cintrón Hernandes",
+  "phone": "1-286-895-4827x358",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 15,
+  "date": {
+    "$date": {
+      "$numberLong": "1620000000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc563"
+  },
+  "client": "María Teresa Colón",
+  "phone": "421-344-1404x251",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 5,
+  "date": {
+    "$date": {
+      "$numberLong": "1640390400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc52b"
+  },
+  "client": "Isabela Darío Anaya Perales",
+  "phone": "668.859.8062",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 9,
+  "date": {
+    "$date": {
+      "$numberLong": "1667433600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc531"
+  },
+  "client": "Mitzy Espartaco Muñiz",
+  "phone": "(541)834-2550x3690",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 20,
+  "date": {
+    "$date": {
+      "$numberLong": "1618185600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc542"
+  },
+  "client": "Clara Fonseca Mateo",
+  "phone": "943.212.7675",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 6,
+  "date": {
+    "$date": {
+      "$numberLong": "1596672000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc545"
+  },
+  "client": "Julio Garibay Lovato",
+  "phone": "860.425.4063",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 20,
+  "date": {
+    "$date": {
+      "$numberLong": "1616112000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc56a"
+  },
+  "client": "Mtro. Sergio Paz",
+  "phone": "(577)623-4785",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 7,
+  "date": {
+    "$date": {
+      "$numberLong": "1666137600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc517"
+  },
+  "client": "Sr(a). Leonardo Carrero",
+  "phone": "260-681-7517",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 15,
+  "date": {
+    "$date": {
+      "$numberLong": "1636329600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc522"
+  },
+  "client": "Emilio Trinidad Guillen",
+  "phone": "1-020-717-3540",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 20,
+  "date": {
+    "$date": {
+      "$numberLong": "1619827200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc523"
+  },
+  "client": "Benjamín Cordero",
+  "phone": "(198)295-4639",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 19,
+  "date": {
+    "$date": {
+      "$numberLong": "1663200000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc524"
+  },
+  "client": "María Elena Lira Tamayo",
+  "phone": "190.974.4889x0098",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 17,
+  "date": {
+    "$date": {
+      "$numberLong": "1619222400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc526"
+  },
+  "client": "Cornelio Olmos",
+  "phone": "579-577-1931x1391",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 13,
+  "date": {
+    "$date": {
+      "$numberLong": "1641081600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc53b"
+  },
+  "client": "Conchita Lucía Paz",
+  "phone": "585.704.3753",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 20,
+  "date": {
+    "$date": {
+      "$numberLong": "1638057600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc53c"
+  },
+  "client": "Tomás Tello Luna",
+  "phone": "227-678-0074",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 10,
+  "date": {
+    "$date": {
+      "$numberLong": "1589155200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc552"
+  },
+  "client": "Patricia Zacarías Melgar Gollum",
+  "phone": "(200)665-1972",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 1,
+  "date": {
+    "$date": {
+      "$numberLong": "1601683200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc55c"
+  },
+  "client": "Lic. Alonso Benítez",
+  "phone": "(834)933-6097x54317",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 9,
+  "date": {
+    "$date": {
+      "$numberLong": "1635811200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc51f"
+  },
+  "client": "Francisco Claudia Arriaga",
+  "phone": "1-825-352-2971x72222",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 13,
+  "date": {
+    "$date": {
+      "$numberLong": "1664236800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc548"
+  },
+  "client": "Bernardo Jaramillo Meléndez",
+  "phone": "1-748-377-9805x80292",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 2,
+  "date": {
+    "$date": {
+      "$numberLong": "1632268800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc549"
+  },
+  "client": "Ricardo Susana Barrios Ramos",
+  "phone": "(741)654-4903x1054",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 18,
+  "date": {
+    "$date": {
+      "$numberLong": "1617667200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc558"
+  },
+  "client": "Rubén Zavala Rodrígez",
+  "phone": "05138502050",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 3,
+  "date": {
+    "$date": {
+      "$numberLong": "1584835200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc51e"
+  },
+  "client": "Dr. Federico Ortega",
+  "phone": "(999)317-3048x8851",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 0,
+  "date": {
+    "$date": {
+      "$numberLong": "1596153600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc513"
+  },
+  "client": "Mtro. Adán González",
+  "phone": "02459655690",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 8,
+  "date": {
+    "$date": {
+      "$numberLong": "1663545600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc50b"
+  },
+  "client": "Esther Juárez Quintero",
+  "phone": "02264127550",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 11,
+  "date": {
+    "$date": {
+      "$numberLong": "1605830400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc514"
+  },
+  "client": "Reina Ureña",
+  "phone": "1-948-639-6949x6515",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 7,
+  "date": {
+    "$date": {
+      "$numberLong": "1582502400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc50a"
+  },
+  "client": "Bruno Homero Gonzales Granado",
+  "phone": "(610)770-9197",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 12,
+  "date": {
+    "$date": {
+      "$numberLong": "1657152000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc515"
+  },
+  "client": "Clemente Carolina Quintero Serrano",
+  "phone": "378-396-3773x156",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 2,
+  "date": {
+    "$date": {
+      "$numberLong": "1630886400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc528"
+  },
+  "client": "Jorge Borrego Laureano",
+  "phone": "390.608.9192x674",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 3,
+  "date": {
+    "$date": {
+      "$numberLong": "1620518400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc536"
+  },
+  "client": "Isabel Paulina Narváez",
+  "phone": "+98(0)3049656299",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 1,
+  "date": {
+    "$date": {
+      "$numberLong": "1598572800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc547"
+  },
+  "client": "Isaac Jurado",
+  "phone": "(433)848-2812",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 1,
+  "date": {
+    "$date": {
+      "$numberLong": "1605916800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc54d"
+  },
+  "client": "Dolores Yáñez",
+  "phone": "1-455-954-2132x412",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 11,
+  "date": {
+    "$date": {
+      "$numberLong": "1624233600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc564"
+  },
+  "client": "Alonso Jaramillo",
+  "phone": "259-054-1698x1749",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 11,
+  "date": {
+    "$date": {
+      "$numberLong": "1643587200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc565"
+  },
+  "client": "Elvira Rivera",
+  "phone": "(310)456-9556x64718",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 7,
+  "date": {
+    "$date": {
+      "$numberLong": "1648425600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc50c"
+  },
+  "client": "Pedro Adriana Castillo Ortiz",
+  "phone": "370-307-5633x21781",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 19,
+  "date": {
+    "$date": {
+      "$numberLong": "1674259200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc537"
+  },
+  "client": "Dr. Benjamín Hinojosa",
+  "phone": "1-013-209-2237x7070",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 1,
+  "date": {
+    "$date": {
+      "$numberLong": "1673827200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc52c"
+  },
+  "client": "Sr(a). Leonardo Gaytán",
+  "phone": "363.433.4850x530",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 5,
+  "date": {
+    "$date": {
+      "$numberLong": "1601510400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc544"
+  },
+  "client": "Asunción Verdugo",
+  "phone": "04618553818",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 19,
+  "date": {
+    "$date": {
+      "$numberLong": "1597881600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc550"
+  },
+  "client": "Bruno Marrero Vanegas",
+  "phone": "325-022-1761",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 17,
+  "date": {
+    "$date": {
+      "$numberLong": "1598918400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc556"
+  },
+  "client": "Evelio Benito Lebrón Toledo",
+  "phone": "(617)740-4647x50526",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 13,
+  "date": {
+    "$date": {
+      "$numberLong": "1643068800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc55f"
+  },
+  "client": "Ricardo Escamilla Guerrero",
+  "phone": "1-976-795-9051x5345",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 13,
+  "date": {
+    "$date": {
+      "$numberLong": "1587427200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc54b"
+  },
+  "client": "Elvira Vela Jiménez",
+  "phone": "1-724-003-6638x130",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 15,
+  "date": {
+    "$date": {
+      "$numberLong": "1677542400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc551"
+  },
+  "client": "Mercedes Leonor Guevara",
+  "phone": "531-952-7387x317",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 16,
+  "date": {
+    "$date": {
+      "$numberLong": "1621123200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc562"
+  },
+  "client": "Ing. Roberto de la Crúz",
+  "phone": "(281)190-3339x987",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 0,
+  "date": {
+    "$date": {
+      "$numberLong": "1666310400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc567"
+  },
+  "client": "Pedro Reyna Hernandes",
+  "phone": "1-196-928-3361x0603",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 13,
+  "date": {
+    "$date": {
+      "$numberLong": "1647043200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc52a"
+  },
+  "client": "Eva Rosa Montalvo Riojas",
+  "phone": "829-386-4589x716",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 3,
+  "date": {
+    "$date": {
+      "$numberLong": "1583193600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc52f"
+  },
+  "client": "Karla Dávila Sarabia",
+  "phone": "(994)075-0705x4929",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 1,
+  "date": {
+    "$date": {
+      "$numberLong": "1640908800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc53a"
+  },
+  "client": "Marisela Quintana Naranjo",
+  "phone": "(232)633-5482",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 10,
+  "date": {
+    "$date": {
+      "$numberLong": "1613952000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc559"
+  },
+  "client": "Isabela Ayala",
+  "phone": "138.521.5212x9143",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 19,
+  "date": {
+    "$date": {
+      "$numberLong": "1624579200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc534"
+  },
+  "client": "Mtro. Noemí Páez",
+  "phone": "343-842-4643",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 16,
+  "date": {
+    "$date": {
+      "$numberLong": "1582416000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc539"
+  },
+  "client": "Germán Adriana Ibarra Coronado",
+  "phone": "1-751-565-7338x81592",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 20,
+  "date": {
+    "$date": {
+      "$numberLong": "1677196800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc53e"
+  },
+  "client": "Dr. David Garza",
+  "phone": "543-719-1665x13243",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 9,
+  "date": {
+    "$date": {
+      "$numberLong": "1645660800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc53f"
+  },
+  "client": "Gregorio Quintero Cortez",
+  "phone": "358.321.2119",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 0,
+  "date": {
+    "$date": {
+      "$numberLong": "1633737600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc54c"
+  },
+  "client": "Clara Juárez Moreno",
+  "phone": "391.088.3418",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 11,
+  "date": {
+    "$date": {
+      "$numberLong": "1597536000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc50e"
+  },
+  "client": "Anel Jorge Nieves Dueñas",
+  "phone": "(117)427-0909x006",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 17,
+  "date": {
+    "$date": {
+      "$numberLong": "1610582400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc51c"
+  },
+  "client": "Bianca Abigail Sepúlveda Barragán",
+  "phone": "844.406.1923",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 17,
+  "date": {
+    "$date": {
+      "$numberLong": "1596585600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc52d"
+  },
+  "client": "Horacio Matías Saucedo",
+  "phone": "839.402.0951x4057",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 1,
+  "date": {
+    "$date": {
+      "$numberLong": "1650585600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc546"
+  },
+  "client": "Perla Luz Rivera Bustos",
+  "phone": "(563)699-4186x7680",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 15,
+  "date": {
+    "$date": {
+      "$numberLong": "1635638400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc560"
+  },
+  "client": "Jacinto Tello",
+  "phone": "03344791489",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 15,
+  "date": {
+    "$date": {
+      "$numberLong": "1674432000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc568"
+  },
+  "client": "Adriana Luis Zambrano Carrera",
+  "phone": "05701329665",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 14,
+  "date": {
+    "$date": {
+      "$numberLong": "1605744000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc553"
+  },
+  "client": "René Montemayor Godoy",
+  "phone": "488-055-6806",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 17,
+  "date": {
+    "$date": {
+      "$numberLong": "1608854400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc55a"
+  },
+  "client": "Ana María Mares",
+  "phone": "(438)345-0334x34508",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "table": 12,
+  "date": {
+    "$date": {
+      "$numberLong": "1654214400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a8b32d91544d0fa41fc566"
+  },
+  "client": "Javier Cynthia Ríos",
+  "phone": "(238)213-8448",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "table": 2,
+  "date": {
+    "$date": {
+      "$numberLong": "1613001600000"
+    }
+  }
+}]

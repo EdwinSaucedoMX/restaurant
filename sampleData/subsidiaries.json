@@ -1,0 +1,146 @@
+[{
+  "_id": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  },
+  "name": "San Luis Potosí",
+  "contact": {
+    "phone": "060.097.1830",
+    "email": "restaurantslp@example.net",
+    "instagram": "@restaurantslp",
+    "twitter": "@restaurantslp_oficial"
+  },
+  "manager": {
+    "$oid": "63a60cc5472d4a7662feee97"
+  },
+  "address": {
+    "street": "Eje vial",
+    "number": "501",
+    "interior_number": "48",
+    "city": "San Luis Potosí",
+    "state": "San Luis Potosí",
+    "country": "México",
+    "postal_code": "19358"
+  },
+  "menu_items": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  },
+  "name": "Morelia",
+  "contact": {
+    "phone": "698-856-0477",
+    "email": "restaurant.morelia@example.net",
+    "instagram": "@restaurant_morelia",
+    "twitter": "@RestaurantMorelia"
+  },
+  "manager": {
+    "$oid": "63a62029472d4a7662feeea0"
+  },
+  "address": {
+    "street": "Pasaje Sur",
+    "number": "507",
+    "city": "Morelia",
+    "state": "Michoacán",
+    "country": "México",
+    "postal_code": "49531"
+  },
+  "menu_items": [
+    {
+      "$oid": "63a394ac83f3f55449b85b8e"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b8f"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b90"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b91"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b92"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b93"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b94"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b95"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b96"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b97"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b98"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b99"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9a"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9b"
+    },
+    {
+      "$oid": "63a394ac83f3f55449b85b9c"
+    },
+    {
+      "$oid": "63a4c77018952197c7077309"
+    }
+  ]
+}]

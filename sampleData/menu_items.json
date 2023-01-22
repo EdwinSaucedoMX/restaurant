@@ -1,0 +1,324 @@
+[{
+  "_id": {
+    "$oid": "63a394ac83f3f55449b85b93"
+  },
+  "name": "Malteada",
+  "image": "malteada.png",
+  "price": 30,
+  "category": "Bebidas frías",
+  "ingredients": [
+    "Chocolate",
+    "Chocomenta",
+    "Vainilla",
+    "Fresa"
+  ]
+},{
+  "_id": {
+    "$oid": "63a394ac83f3f55449b85b90"
+  },
+  "name": "Pizza",
+  "description": "Pizza con ingredientes a elegir",
+  "image": "pizza.png",
+  "category": "Platos fuertes",
+  "ingredients": [
+    "Pepperonni",
+    "Hawaiana",
+    "Queso",
+    "Carnes frías",
+    "Mexicana"
+  ],
+  "variations": [
+    {
+      "name": "Rebanada",
+      "price": 22,
+      "description": "Rebada individual"
+    },
+    {
+      "name": "Chica",
+      "price": 90,
+      "description": "Pizza de 6 rebanadas"
+    },
+    {
+      "name": "Mediana",
+      "price": 150,
+      "description": "Pizza de 8 rebanadas"
+    },
+    {
+      "name": "Grande",
+      "price": 200,
+      "description": "Pizza de 12 rebanadas"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a394ac83f3f55449b85b94"
+  },
+  "name": "Ponche",
+  "description": "Ponche de frutas caliente",
+  "image": "ponche.png",
+  "price": 20,
+  "category": "Bebidas calientes",
+  "season_start": {
+    "$date": {
+      "$numberLong": "1669852800000"
+    }
+  },
+  "season_end": {
+    "$date": {
+      "$numberLong": "1673740800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63a394ac83f3f55449b85b97"
+  },
+  "name": "Flan",
+  "image": "flan.png",
+  "price": 30,
+  "category": "Postres"
+},{
+  "_id": {
+    "$oid": "63a394ac83f3f55449b85b9a"
+  },
+  "name": "Ensalada César",
+  "image": "ensalada_cesar.png",
+  "price": 50,
+  "category": "Ensaladas",
+  "ingredients": [
+    "Pechuga de pollo",
+    "Lechuga romana",
+    "Aceitunas negras",
+    "Anchoas",
+    "Queso",
+    "Aceite de oliva"
+  ]
+},{
+  "_id": {
+    "$oid": "63a394ac83f3f55449b85b96"
+  },
+  "name": "Cerveza",
+  "description": "Cerveza en lata",
+  "image": "cerveza.png",
+  "price": 25,
+  "category": "Bebidas alcohólicas"
+},{
+  "_id": {
+    "$oid": "63a394ac83f3f55449b85b95"
+  },
+  "name": "Café",
+  "description": "Café de olla",
+  "image": "cafe.png",
+  "price": 20,
+  "category": "Bebidas calientes"
+},{
+  "_id": {
+    "$oid": "63a394ac83f3f55449b85b99"
+  },
+  "name": "Cremas",
+  "description": "Cremas de verduras",
+  "image": "crema.png",
+  "price": 69,
+  "category": "Entradas",
+  "variations": [
+    {
+      "name": "Zanahoria"
+    },
+    {
+      "name": "Champiñón"
+    },
+    {
+      "name": "Brócoli"
+    },
+    {
+      "name": "Calabaza"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a394ac83f3f55449b85b9c"
+  },
+  "name": "Omelette",
+  "description": "Omelette al gusto",
+  "image": "omelette.png",
+  "price": 45,
+  "category": "Desayunos",
+  "ingredients": [
+    "Cebolla",
+    "Jitomate",
+    "Jamón",
+    "Salchicha",
+    "Champiñones"
+  ]
+},{
+  "_id": {
+    "$oid": "63a394ac83f3f55449b85b92"
+  },
+  "name": "Refresco",
+  "description": "Refresco de 600 ml",
+  "image": "refrescos.png",
+  "price": 15,
+  "category": "Bebidas frías",
+  "ingredients": [
+    "Coca Cola",
+    "Fanta",
+    "Sprite",
+    "Mundet"
+  ]
+},{
+  "_id": {
+    "$oid": "63a394ac83f3f55449b85b91"
+  },
+  "name": "Hamburguesa",
+  "description": "Hamburguesa con orden de papas",
+  "image": "hamburguesa.png",
+  "category": "Platos fuertes",
+  "ingredients": [
+    "Carne",
+    "Jitomate",
+    "Cebolla",
+    "Chiles en vinagre",
+    "Mayonesa",
+    "Catsup",
+    "Mostaza"
+  ],
+  "variations": [
+    {
+      "name": "Sencilla",
+      "price": 30
+    },
+    {
+      "name": "Sencilla",
+      "price": 50,
+      "ingredients": [
+        "Queso derretido",
+        "Jamón",
+        "Salchicha",
+        "Tocino",
+        "Pepinillos"
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a394ac83f3f55449b85b9b"
+  },
+  "name": "Chilaquiles",
+  "image": "chilaquiles.png",
+  "price": 50,
+  "category": "Desayunos",
+  "variations": [
+    {
+      "name": "Verdes"
+    },
+    {
+      "name": "Rojos"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a394ac83f3f55449b85b98"
+  },
+  "name": "Pastel de chocolate",
+  "description": "Pastel de chocolate cubierto de chocolate líquido",
+  "image": "pastel.png",
+  "price": 35,
+  "category": "Postres"
+},{
+  "_id": {
+    "$oid": "63a394ac83f3f55449b85b8e"
+  },
+  "name": "Tacos",
+  "description": "Tacos con tortilla de maíz",
+  "image": "taco.png",
+  "category": "Platos fuertes",
+  "variations": [
+    {
+      "name": "Bisteck",
+      "price": 12
+    },
+    {
+      "name": "Al Pastor",
+      "price": 12
+    },
+    {
+      "name": "Chorizo",
+      "price": 12
+    },
+    {
+      "name": "Tripas",
+      "price": 12
+    },
+    {
+      "name": "Suadero",
+      "price": 12
+    },
+    {
+      "name": "Barbacoa",
+      "price": 14
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a394ac83f3f55449b85b8f"
+  },
+  "name": "Quesadillas",
+  "description": "Quesadillas con tortilla de harina y queso",
+  "image": "quesadilla.png",
+  "category": "Platos fuertes",
+  "variations": [
+    {
+      "name": "Bisteck",
+      "price": 24
+    },
+    {
+      "name": "Al Pastor",
+      "price": 24
+    },
+    {
+      "name": "Chorizo",
+      "price": 24
+    },
+    {
+      "name": "Tripas",
+      "price": 24
+    },
+    {
+      "name": "Suadero",
+      "price": 24
+    },
+    {
+      "name": "Barbacoa",
+      "price": 28
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a4c77018952197c7077309"
+  },
+  "name": "Chiles en nogada",
+  "description": "Chiles en nogada acompañados de arroz y ensalada",
+  "image": "chiles_en_nogada.png",
+  "price": 150,
+  "category": "Platos fuertes",
+  "season_start": {
+    "$date": {
+      "$numberLong": "1693526400000"
+    }
+  },
+  "season_end": {
+    "$date": {
+      "$numberLong": "1696032000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63af7cbad6aee76413ee682b"
+  },
+  "name": "Enchiladas potosinas",
+  "description": "Enchiladas potosinas con queso y ensalada",
+  "image": "enchiladas_potosinas.png",
+  "category": "Platos fuertes",
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  }
+}]

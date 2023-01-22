@@ -1,0 +1,1271 @@
+[{
+  "_id": {
+    "$oid": "63a60cc5472d4a7662feee98"
+  },
+  "name": "Carla Jos Sauceda Badillo",
+  "hiring_date": {
+    "$date": {
+      "$numberLong": "1617667200000"
+    }
+  },
+  "position": "Ayudante de administrador de sucursal",
+  "degree": "Secundaria",
+  "phone": "02869444065",
+  "email": "ivan31@example.com",
+  "password": "4276531a197bc1770d2af1684160eda19e521dfed8c9d857db0e1818c9bdc12845adc66b8b2a6ce220885592aa0ab8ba505d0b3e4cde3c4c9698fa56b9752b01",
+  "schedule": {
+    "sunday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946738800000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946767600000"
+        }
+      }
+    },
+    "monday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946738800000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946767600000"
+        }
+      }
+    },
+    "tuesday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946738800000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946767600000"
+        }
+      }
+    },
+    "wednesday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946738800000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946767600000"
+        }
+      }
+    },
+    "thursday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946738800000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946767600000"
+        }
+      }
+    },
+    "friday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946738800000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946767600000"
+        }
+      }
+    },
+    "saturday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946738800000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946767600000"
+        }
+      }
+    }
+  },
+  "salary": 7010,
+  "legal_documents": [
+    "curp_3.pdf",
+    "rfc_3,pdf",
+    "acta_nacimiento_3.pdf"
+  ],
+  "permissions": {
+    "$oid": "63a5ef97472d4a7662feee88"
+  },
+  "is_active": true,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  }
+},{
+  "_id": {
+    "$oid": "63a60cc5472d4a7662feee9a"
+  },
+  "name": "Marco Antonio Irene Ramón Villaseñor",
+  "hiring_date": {
+    "$date": {
+      "$numberLong": "1649980800000"
+    }
+  },
+  "position": "Mesero",
+  "degree": "Bachillerato",
+  "phone": "354-687-7775",
+  "email": "acunalucia@example.net",
+  "password": "78efa332ddfdc4947a1d962e2dde12df0af24543039c34590deb29c62e9ad187fd897fc93343c99d7b7ad0b9f44a29b47c290f4738d7a47dbfcde21fdd5513a6",
+  "schedule": {
+    "sunday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946753200000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946782000000"
+        }
+      }
+    },
+    "monday": {},
+    "tuesday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946753200000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946782000000"
+        }
+      }
+    },
+    "wednesday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946753200000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946782000000"
+        }
+      }
+    },
+    "thursday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946753200000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946782000000"
+        }
+      }
+    },
+    "friday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946753200000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946782000000"
+        }
+      }
+    },
+    "saturday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946753200000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946782000000"
+        }
+      }
+    }
+  },
+  "salary": 6118,
+  "legal_documents": [
+    "curp_6.pdf",
+    "rfc_6,pdf",
+    "acta_nacimiento_6.pdf"
+  ],
+  "permissions": {
+    "$oid": "63a5ef97472d4a7662feee8b"
+  },
+  "is_active": true,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  }
+},{
+  "_id": {
+    "$oid": "63a60cc5472d4a7662feee99"
+  },
+  "name": "David Cabán Samaniego",
+  "hiring_date": {
+    "$date": {
+      "$numberLong": "1616025600000"
+    }
+  },
+  "position": "Recepcionista",
+  "degree": "Bachillerato",
+  "phone": "413.574.5332",
+  "email": "luciamarroquin@example.org",
+  "password": "57580988ba12ac538a3220c46ad38afa1a0bd11bfcaba0417e8922702d99cbd3d4f3c36628e686a0391fb640e4dd30f6395a366a8e2a86938e0ef2aa83dc2691",
+  "schedule": {
+    "sunday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946738800000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946767600000"
+        }
+      }
+    },
+    "monday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946738800000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946767600000"
+        }
+      }
+    },
+    "tuesday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946738800000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946767600000"
+        }
+      }
+    },
+    "wednesday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946738800000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946767600000"
+        }
+      }
+    },
+    "thursday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946738800000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946767600000"
+        }
+      }
+    },
+    "friday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946738800000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946767600000"
+        }
+      }
+    },
+    "saturday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946738800000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946767600000"
+        }
+      }
+    }
+  },
+  "salary": 7010,
+  "legal_documents": [
+    "curp_4.pdf",
+    "rfc_4,pdf",
+    "acta_nacimiento_4.pdf"
+  ],
+  "permissions": {
+    "$oid": "63a5ef97472d4a7662feee89"
+  },
+  "is_active": true,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  }
+},{
+  "_id": {
+    "$oid": "63a60cc5472d4a7662feee96"
+  },
+  "name": "Gabriela Citlali Bustamante",
+  "hiring_date": {
+    "$date": {
+      "$numberLong": "1598486400000"
+    }
+  },
+  "position": "Administrador general",
+  "degree": "Licenciatura",
+  "phone": "411-724-2561",
+  "email": "eva62@example.org",
+  "password": "6615e1029081f3a4616d02f0d2445c94a3c360ca7e227af9538822834df7c3136accac6d3693bd1eeb548bfe0ce5424226eaf80b6fc4f0d9e77f8ab9d67d7c91",
+  "schedule": {
+    "sunday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946738800000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946767600000"
+        }
+      }
+    },
+    "monday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946738800000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946767600000"
+        }
+      }
+    },
+    "tuesday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946738800000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946767600000"
+        }
+      }
+    },
+    "wednesday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946738800000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946767600000"
+        }
+      }
+    },
+    "thursday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946738800000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946767600000"
+        }
+      }
+    },
+    "friday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946738800000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946767600000"
+        }
+      }
+    },
+    "saturday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946738800000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946767600000"
+        }
+      }
+    }
+  },
+  "salary": 54270,
+  "legal_documents": [
+    "curp_1.pdf",
+    "rfc_1,pdf",
+    "acta_nacimiento_1.pdf"
+  ],
+  "permissions": {
+    "$oid": "63a5ef97472d4a7662feee86"
+  },
+  "is_active": true,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  }
+},{
+  "_id": {
+    "$oid": "63a60cc5472d4a7662feee9c"
+  },
+  "name": "Mariana Rocío Toledo Cardona",
+  "hiring_date": {
+    "$date": {
+      "$numberLong": "1602547200000"
+    }
+  },
+  "position": "Jefe de Mesero",
+  "degree": "Bachillerato",
+  "phone": "465.673.3588",
+  "email": "avilaconchita@example.org",
+  "password": "dae511ce1037eb0e7daf084e03169a290239b9145ae5cc97fa183502780b25695e21c95575a339aa19fd8da2f065252b615d5b2726f3bf9f52402d97c18b7969",
+  "schedule": {
+    "sunday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946753200000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946782000000"
+        }
+      }
+    },
+    "monday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946753200000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946782000000"
+        }
+      }
+    },
+    "tuesday": {},
+    "wednesday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946753200000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946782000000"
+        }
+      }
+    },
+    "thursday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946753200000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946782000000"
+        }
+      }
+    },
+    "friday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946753200000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946782000000"
+        }
+      }
+    },
+    "saturday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946753200000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946782000000"
+        }
+      }
+    }
+  },
+  "salary": 6296,
+  "legal_documents": [
+    "curp_6.pdf",
+    "rfc_6,pdf",
+    "acta_nacimiento_6.pdf"
+  ],
+  "permissions": {
+    "$oid": "63a5ef97472d4a7662feee8b"
+  },
+  "is_active": true,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  }
+},{
+  "_id": {
+    "$oid": "63a60cc5472d4a7662feee97"
+  },
+  "name": "Gerónimo Beatriz Vega",
+  "hiring_date": {
+    "$date": {
+      "$numberLong": "1621814400000"
+    }
+  },
+  "position": "Administrador de sucursal",
+  "degree": "Licenciatura",
+  "phone": "162-036-5655",
+  "email": "ebravo@example.net",
+  "password": "474a81e12d2c3797f3cd787d24a4e77aaef860c87407e660629ac098bc6f822fccbd22f1c571dbad5febccdb80440bea89ee9cfdcb2d2b53edcacb6ee4a5bae2",
+  "schedule": {
+    "sunday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946738800000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946767600000"
+        }
+      }
+    },
+    "monday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946738800000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946767600000"
+        }
+      }
+    },
+    "tuesday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946738800000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946767600000"
+        }
+      }
+    },
+    "wednesday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946738800000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946767600000"
+        }
+      }
+    },
+    "thursday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946738800000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946767600000"
+        }
+      }
+    },
+    "friday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946738800000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946767600000"
+        }
+      }
+    },
+    "saturday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946738800000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946767600000"
+        }
+      }
+    }
+  },
+  "salary": 19841,
+  "legal_documents": [
+    "curp_2.pdf",
+    "rfc_2,pdf",
+    "acta_nacimiento_2.pdf"
+  ],
+  "permissions": {
+    "$oid": "63a5ef97472d4a7662feee87"
+  },
+  "is_active": true,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  }
+},{
+  "_id": {
+    "$oid": "63a60cc5472d4a7662feee9b"
+  },
+  "name": "María del Carmen Carmona",
+  "hiring_date": {
+    "$date": {
+      "$numberLong": "1651017600000"
+    }
+  },
+  "position": "Mesero",
+  "degree": "Bachillerato",
+  "phone": "1464630443",
+  "email": "perla89@example.org",
+  "password": "2b6edef7b3fde6270164aeed5871eb65a965dce05238fda0d42bf0f278282d4973b48a9c2c8142d5a2f3714f2348293bab8306e2cf213a96ede37f378b9feffe",
+  "schedule": {
+    "sunday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946753200000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946782000000"
+        }
+      }
+    },
+    "monday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946753200000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946782000000"
+        }
+      }
+    },
+    "tuesday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946753200000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946782000000"
+        }
+      }
+    },
+    "wednesday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946753200000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946782000000"
+        }
+      }
+    },
+    "thursday": {},
+    "friday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946753200000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946782000000"
+        }
+      }
+    },
+    "saturday": {
+      "start": {
+        "$date": {
+          "$numberLong": "946753200000"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "946782000000"
+        }
+      }
+    }
+  },
+  "salary": 6296,
+  "legal_documents": [
+    "curp_6.pdf",
+    "rfc_6,pdf",
+    "acta_nacimiento_6.pdf"
+  ],
+  "permissions": {
+    "$oid": "63a5ef97472d4a7662feee8b"
+  },
+  "is_active": true,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea6"
+  }
+},{
+  "_id": {
+    "$oid": "63a62029472d4a7662feeea4"
+  },
+  "name": "Elena Carreón",
+  "hiring_date": {
+    "$date": {
+      "$numberLong": "1625443200000"
+    }
+  },
+  "position": "Mesero",
+  "degree": "Secundaria",
+  "phone": "(621)563-1608x44197",
+  "email": "aescobar@example.org",
+  "password": "6135b6387311078ef4835bbeab8067b87f638dfde30e5df8f38314c3916623528034da5273e65dee7dda7eddf7b011754529c6cc1b6418eab0b968fbad9b7ecd",
+  "schedule": {
+    "sunday": {
+      "start": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      }
+    },
+    "monday": {
+      "start": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      }
+    },
+    "tuesday": {},
+    "wednesday": {
+      "start": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      }
+    },
+    "thursday": {
+      "start": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      }
+    },
+    "friday": {
+      "start": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      }
+    },
+    "saturday": {
+      "start": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      }
+    }
+  },
+  "salary": 5969,
+  "legal_documents": [
+    "curp.pdf",
+    "rfc.pdf",
+    "acta_nacimiento.pdf"
+  ],
+  "permissions": "63a5ef97472d4a7662feee8b",
+  "is_active": true,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  }
+},{
+  "_id": {
+    "$oid": "63a62029472d4a7662feeea2"
+  },
+  "name": "Agustín Olga Lozada Olmos",
+  "hiring_date": {
+    "$date": {
+      "$numberLong": "1596931200000"
+    }
+  },
+  "position": "Recepcionista",
+  "degree": "Licenciatura",
+  "phone": "1-220-055-6479x131",
+  "email": "lovatoabraham@example.org",
+  "password": "516cc007e9e7e4682eef354b1100ebad5e9f8209edd8aa770c54f2ce66839c1bbc1be657dc238c37b3f2407a9dc8292726db4acb5f6fee00b8ee5e5f2f467a9b",
+  "schedule": {
+    "sunday": {
+      "start": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      }
+    },
+    "monday": {
+      "start": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      }
+    },
+    "tuesday": {},
+    "wednesday": {
+      "start": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      }
+    },
+    "thursday": {
+      "start": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      }
+    },
+    "friday": {
+      "start": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      }
+    },
+    "saturday": {
+      "start": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      }
+    }
+  },
+  "salary": 18982,
+  "legal_documents": [
+    "curp.pdf",
+    "rfc.pdf",
+    "acta_nacimiento.pdf"
+  ],
+  "permissions": "63a5ef97472d4a7662feee89",
+  "is_active": true,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  }
+},{
+  "_id": {
+    "$oid": "63a62029472d4a7662feeea3"
+  },
+  "name": "Nicolás José Luis Samaniego",
+  "hiring_date": {
+    "$date": {
+      "$numberLong": "1593820800000"
+    }
+  },
+  "position": "Jefe de Mesero",
+  "degree": "Secundaria",
+  "phone": "443-772-0322x8643",
+  "email": "evalenzuela@example.net",
+  "password": "530eda5cb8d6fd6d4a1d44154ed17cf44e12e86d963638e41f6f0f175154e0a52d44bc87f983be2329e826fdbd5769766d2ce1e3e457e7c0119b7ceb4b253ffb",
+  "schedule": {
+    "sunday": {
+      "start": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      }
+    },
+    "monday": {
+      "start": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      }
+    },
+    "tuesday": {},
+    "wednesday": {
+      "start": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      }
+    },
+    "thursday": {
+      "start": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      }
+    },
+    "friday": {
+      "start": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      }
+    },
+    "saturday": {
+      "start": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      }
+    }
+  },
+  "salary": 5191,
+  "legal_documents": [
+    "curp.pdf",
+    "rfc.pdf",
+    "acta_nacimiento.pdf"
+  ],
+  "permissions": "63a5ef97472d4a7662feee8a",
+  "is_active": true,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  }
+},{
+  "_id": {
+    "$oid": "63a62029472d4a7662feeea0"
+  },
+  "name": "Dr. Gregorio Bravo",
+  "hiring_date": {
+    "$date": {
+      "$numberLong": "1584748800000"
+    }
+  },
+  "position": "Administrador de sucursal",
+  "degree": "Secundaria",
+  "phone": "1-679-590-8929",
+  "email": "victoriaromo@example.com",
+  "password": "5f918847b50e0b97cfe5c6a7ecca324a7ff098ec16b0231072fb520f8e644c49f4e43a73673fe48faeefb6e49a66429c370335476e9a22bb4a04906bf58ab148",
+  "schedule": {
+    "sunday": {
+      "start": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      }
+    },
+    "monday": {
+      "start": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      }
+    },
+    "tuesday": {},
+    "wednesday": {
+      "start": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      }
+    },
+    "thursday": {
+      "start": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      }
+    },
+    "friday": {
+      "start": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      }
+    },
+    "saturday": {
+      "start": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      }
+    }
+  },
+  "salary": 16279,
+  "legal_documents": [
+    "curp.pdf",
+    "rfc.pdf",
+    "acta_nacimiento.pdf"
+  ],
+  "permissions": "63a5ef97472d4a7662feee87",
+  "is_active": true,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  }
+},{
+  "_id": {
+    "$oid": "63a62029472d4a7662feeea1"
+  },
+  "name": "Dr. Jacobo Villanueva",
+  "hiring_date": {
+    "$date": {
+      "$numberLong": "1604707200000"
+    }
+  },
+  "position": "Ayudante de administrador de sucursal",
+  "degree": "Licenciatura",
+  "phone": "828-479-9574x079",
+  "email": "soledadvaca@example.org",
+  "password": "bdad040dbc674bf6f72c138482ac3ee13aa5052d42b56381241a53d9d6fd6821701a77def0f12411b548b11e37762abfadc49ea6264a070085ef0580cf6b2f7e",
+  "schedule": {
+    "sunday": {
+      "start": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      }
+    },
+    "monday": {
+      "start": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      }
+    },
+    "tuesday": {},
+    "wednesday": {
+      "start": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      }
+    },
+    "thursday": {
+      "start": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      }
+    },
+    "friday": {
+      "start": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      }
+    },
+    "saturday": {
+      "start": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      },
+      "end": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      }
+    }
+  },
+  "salary": 14826,
+  "legal_documents": [
+    "curp.pdf",
+    "rfc.pdf",
+    "acta_nacimiento.pdf"
+  ],
+  "permissions": "63a5ef97472d4a7662feee88",
+  "is_active": true,
+  "subsidiary": {
+    "$oid": "63a621fe472d4a7662feeea7"
+  }
+}]
