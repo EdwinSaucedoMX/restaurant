@@ -27,6 +27,7 @@ Platillo con variaciones, etc ingredientes extra.
     name: "",
     description: "",	// Opcional
     image: Image,
+    price: 0.0,			// Opcional
     category: "",
     ingredients: [""],	// Ingrediente común
     season_start: Date,
