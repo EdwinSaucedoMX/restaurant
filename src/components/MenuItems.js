@@ -51,7 +51,7 @@ async function listMenuItemsFromCategory(client, category) {
 async function searchMenuItemsByName(client, name) {
     const filter = {
         'name': {
-            '$regex': name + '*', 
+            '$regex': name + '*',
             '$options': 'i'
         }
     }
@@ -116,7 +116,7 @@ async function searchSubsidiaryMenuItemsByName(client, name, subsidiaryId) {
                 ]
             }, {
                 'name': {
-                    '$regex': 'CADENA*', 
+                    '$regex': 'CADENA*',
                     '$options': 'i'
                 }
             }
