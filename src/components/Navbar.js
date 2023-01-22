@@ -4,10 +4,22 @@ import Form from 'react-bootstrap/Form';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
+import Offcanvas from 'react-bootstrap/Offcanvas';
+
 import NavDoubleDropdown from './NavDoubleDropdwon';
+import CartWidget from './CartWidget';
+import Login from './Login';
+    
+import {useState} from 'react';
 
 /* Just Testing */
 function Navbar_() {
+
+    const [show, setShow] = useState(false);
+
+    const handleClose = () => setShow(false);
+    const handleShow = () => setShow(true);
+
     return (
         <Navbar 
         sticky="top"
@@ -29,16 +41,29 @@ function Navbar_() {
             style={{ maxHeight : '100px'}}
             navbarScroll>
                 <Nav.Link href="#home">Home</Nav.Link>
-                <Nav.Link href="#link">Link</Nav.Link>
-                <NavDoubleDropdown title="Categories"/>
-                <NavDropdown title="Dropdown" id="navbarScrolliingDropdown">                    
+                <Nav.Link role='button' onClick={handleShow} >Login</Nav.Link>
+                
+                {/* <NavDoubleDropdown title="Categories"/> */}
+                {/* <NavDropdown title="Dropdown" id="navbarScrolliingDropdown">                    
                     <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
                     <NavDropdown.Item href="#action/3.2">Another action</NavDropdown.Item>
                     <NavDropdown.Item href="#action/3.3">Something</NavDropdown.Item>
                     <NavDropdown.Divider />
                     <NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item>
-                </NavDropdown>
+                </NavDropdown> */}
+
+            <Offcanvas show={show} onHide={handleClose} placement="start">
+                <Offcanvas.Header closeButton>
+                    <Offcanvas.Title as="h1">Login</Offcanvas.Title>
+                </Offcanvas.Header>
+                <Offcanvas.Body>
+                  <Login />
+                </Offcanvas.Body>
+                
+            </Offcanvas>
+
             </Nav>
+            <CartWidget className="cart-widget" />
             <Form className="d-flex">
             <Form.Control
               type="search"

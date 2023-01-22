@@ -1,3 +1,5 @@
+@use '../abstracts/variables' as *;
+@use '../abstracts/mixins' as *;
 
 * {
     box-sizing: border-box;
@@ -5,6 +7,9 @@
     padding: 0;
     user-select: none;
 }
+
+
+  
 
 
 
@@ -15,6 +20,7 @@
     --bs-accordion-border-color: transparent !important;
     .accordion-body{
         background-color: transparent !important;
+        padding: 0.2em 0 !important;
         padding-left: 0;
         padding-right: 0;
     }
@@ -22,7 +28,10 @@
             &:hover{
                 background-color: #e9ecef !important;
             }
-
+    }
+    .accordion-button:not(.collapsed)::after{
+        background-image: var(--bs-accordion-btn-icon);
+        transform: var(--bs-accordion-btn-icon-transform);
     }
 }
 

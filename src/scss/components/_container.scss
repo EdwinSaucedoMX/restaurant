@@ -1,0 +1,19 @@
+@use '../abstracts/variables' as *;
+@use '../abstracts/mixins' as *;
+
+.App-container{
+    display: flex;
+    flex-flow: column wrap;
+    align-content: center;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100% !important;
+    margin: $margin-y;
+    height: auto !important;
+  }
+  
+  .App-container h1{
+    color: map-get($colors, secondary);
+    background-color: map-get($colors, primary);
+    width: 100%;
+  }
