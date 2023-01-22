@@ -2,12 +2,15 @@ import './App.scss';
 
 import Navbar from './components/Navbar';
 import ItemListContainer from './components/ItemListContainer';
-
+import {main} from './components/DataBase';
 
 import 'bootstrap/dist/js/bootstrap.bundle.min';
 
 
+
+
 function App() {
+  
   return (
     <div className="App">
       <Navbar />

@@ -1,9 +1,9 @@
-require('dotenv').config();
+import env from 'react-dotenv';
+import { MongoClient } from 'mongodb';
 
-const MongoClient = require('mongodb').MongoClient;
 
-async function main() {
-    const uri = process.env.MONGODB_URI;
+export async function main() {
+    const uri = env.MONGODB_URI;
     const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true })
 
     try {
@@ -23,6 +23,10 @@ async function main() {
     }
     
 }
+
+
+
+
 
 /**
  * This is used only to test if it works
